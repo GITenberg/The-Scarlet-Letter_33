@@ -12,7 +12,7 @@ Author: Nathaniel Hawthorne
 
 Posting Date: December 18, 2011 [EBook #33]
 Release Date: February, 1992
-Last Updated: May 18, 2005
+Last Updated: June 2, 2017
 
 Language: English
 
@@ -1812,7 +1812,7 @@ Prynne herself."
 
 The door of the jail being flung open from within there
 appeared, in the first place, like a black shadow emerging into
-sunshine, the grim and gristly presence of the town-beadle, with
+sunshine, the grim and grisly presence of the town-beadle, with
 a sword by his side, and his staff of office in his hand.  This
 personage prefigured and represented in his aspect the whole
 dismal severity of the Puritanic code of law, which it was his
@@ -2048,7 +2048,7 @@ in architecture, of a continental city; where new life had
 awaited her, still in connexion with the misshapen scholar: a
 new life, but feeding itself on time-worn materials, like a tuft
 of green moss on a crumbling wall.  Lastly, in lieu of these
-shifting scenes, came back the rude market-place of the Puritan,
+shifting scenes, came back the rude market-place of the Puritan
 settlement, with all the townspeople assembled, and levelling
 their stern regards at Hester Prynne--yes, at herself--who stood
 on the scaffold of the pillory, an infant on her arm, and the
@@ -2918,8 +2918,8 @@ sufferer's defenceless breast like a rough blow upon an
 ulcerated wound.  Hester had schooled herself long and well; and
 she never responded to these attacks, save by a flush of crimson
 that rose irrepressibly over her pale cheek, and again subsided
-into the depths of her bosom.  She was patient--a martyr, indeed
-but she forebore to pray for enemies, lest, in spite of her
+into the depths of her bosom.  She was patient--a martyr,
+indeed--but she forebore to pray for enemies, lest, in spite of her
 forgiving aspirations, the words of the blessing should
 stubbornly twist themselves into a curse.
 
@@ -2944,7 +2944,7 @@ it; it could have caused her no deeper pang had the leaves of
 the trees whispered the dark story among themselves--had the
 summer breeze murmured about it--had the wintry blast shrieked
 it aloud!  Another peculiar torture was felt in the gaze of a new
-eye.  When strangers looked curiously at the scarlet letter and
+eye.  When strangers looked curiously at the scarlet letter--and
 none ever failed to do so--they branded it afresh in Hester's
 soul; so that, oftentimes, she could scarcely refrain, yet
 always did refrain, from covering the symbol with her hand.  But
@@ -3173,7 +3173,7 @@ her, and tasted hours of quiet, sad, delicious happiness;
 until--perhaps with that perverse expression glimmering from
 beneath her opening lids--little Pearl awoke!
 
-How soon--with what strange rapidity, indeed did Pearl arrive at
+How soon--with what strange rapidity, indeed--did Pearl arrive at
 an age that was capable of social intercourse beyond the
 mother's ever-ready smile and nonsense-words!  And then what a
 happiness would it have been could Hester Prynne have heard her
@@ -3302,8 +3302,8 @@ expression of the eyes.
 
 Once this freakish, elvish cast came into the child's eyes while
 Hester was looking at her own image in them, as mothers are fond
-of doing; and suddenly for women in solitude, and with troubled
-hearts, are pestered with unaccountable delusions she fancied
+of doing; and suddenly--for women in solitude, and with troubled
+hearts, are pestered with unaccountable delusions--she fancied
 that she beheld, not her own miniature portrait, but another
 face in the small black mirror of Pearl's eye.  It was a face,
 fiend-like, full of smiling malice, yet bearing the semblance of
@@ -3366,8 +3366,7 @@ acuteness of the child.  Whether moved only by her ordinary
 freakishness, or because an evil spirit prompted her, she put up
 her small forefinger and touched the scarlet letter.
 
-"He did not send me!" cried she, positively.  "I have no
-Heavenly Father!"
+"He did not send me!" cried she, positively.  "I have no Heavenly Father!"
 
 "Hush, Pearl, hush!  Thou must not talk so!" answered the
 mother, suppressing a groan.  "He sent us all into the world.  He
@@ -5520,7 +5519,7 @@ trouble, as if its gloomy twilight were a medium in which she
 was entitled to hold intercourse with her fellow-creature.  There
 glimmered the embroidered letter, with comfort in its unearthly
 ray.  Elsewhere the token of sin, it was the taper of the sick
-chamber.  It had even thrown its gleam, in the sufferer's bard
+chamber.  It had even thrown its gleam, in the sufferer's hard
 extremity, across the verge of time.  It had shown him where to
 set his foot, while the light of earth was fast becoming dim,
 and ere the light of futurity could reach him.  In such
@@ -5534,7 +5533,7 @@ world nor she looked forward to this result.  The letter was the
 symbol of her calling.  Such helpfulness was found in her--so
 much power to do, and power to sympathise--that many people
 refused to interpret the scarlet A by its original
-signification.  They said that it meant Abel, so strong was
+signification.  They said that it meant Able, so strong was
 Hester Prynne, with a woman's strength.
 
 It was only the darkened house that could contain her.  When
